@@ -5,9 +5,7 @@
 
 <img width="635" height="400" alt="newplot (4)" src="https://github.com/user-attachments/assets/d8c6de24-59bb-401f-abc1-5b52ad7ddf80" />
 
-<img width="635" height="400" alt="newplot (4)" src="https://github.com/user-attachments/assets/4148b5ee-9e57-4037-abff-51c9ed1d9ee9" />
-
-
+<img width="635" height="400" alt="newplot (2)" src="https://github.com/user-attachments/assets/c7572ae5-656c-43d9-b915-c58e58d80f03" />
 
 # Sales Dashboard Findings
 
