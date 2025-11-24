@@ -7,6 +7,9 @@
 
 <img width="635" height="400" alt="newplot (2)" src="https://github.com/user-attachments/assets/c7572ae5-656c-43d9-b915-c58e58d80f03" />
 
+
+<img width="635" height="400" alt="newplot (6)" src="https://github.com/user-attachments/assets/ee231d78-41f9-451a-a825-b96a85b1c2b5" />
+
 # Sales Dashboard Findings
 
 ## 1. **Purchase Amount Over Time**
