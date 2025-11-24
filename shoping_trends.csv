@@ -1,0 +1,301 @@
+Customer ID,Age,Gender,Item Purchased,Category,purchase_amount,Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases
+1,64.0,Male,Jeans,Footwear,20.0,Maine,M,,Winter,3.7,Yes,Standard,Yes,,26.0,PayPal,Every 3 Months
+2,65.0,Male,Jeans,Footwear,21.0,Rhode Island,XL,Turquoise,Winter,2.7,Yes,Store Pickup,Yes,No,12.0,Debit Card,Weekly
+3,43.0,Male,,Footwear,27.0,,L,Black,Spring,2.9,Yes,,Yes,Yes,50.0,Debit Card,Bi-Weekly
+4,,Male,Handbag,Outerwear,45.0,Oregon,XL,Green,Winter,3.9,Yes,Express,Yes,Yes,11.0,Debit Card,Monthly
+5,,Male,Coat,,80.0,Rhode Island,XL,Turquoise,Winter,3.9,Yes,Store Pickup,Yes,Yes,19.0,,Annually
+6,46.0,Male,Coat,,82.0,Florida,S,White,,4.9,Yes,2-Day Shipping,Yes,Yes,36.0,Bank Transfer,
+7,21.0,Male,Sandals,Outerwear,50.0,Rhode Island,L,Yellow,Summer,3.5,Yes,Store Pickup,Yes,No,25.0,Debit Card,Fortnightly
+8,,Male,Sandals,,29.0,Oregon,M,Green,Fall,4.5,Yes,Standard,Yes,No,,Venmo,Bi-Weekly
+9,21.0,Male,Shirt,Clothing,100.0,Kentucky,M,Pink,Spring,4.6,Yes,Store Pickup,Yes,No,39.0,Venmo,Annually
+10,22.0,Male,Shoes,,97.0,Rhode Island,S,Green,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,11.0,Bank Transfer,Every 3 Months
+11,39.0,Male,Handbag,Clothing,74.0,Florida,,Pink,Winter,,Yes,Standard,Yes,Yes,26.0,Credit Card,Bi-Weekly
+12,31.0,Male,Sneakers,Clothing,59.0,New York,L,Maroon,Spring,4.1,Yes,Store Pickup,Yes,,47.0,Cash,Monthly
+13,,Male,Shoes,Outerwear,,Oregon,S,Turquoise,Fall,4.2,Yes,Standard,Yes,Yes,3.0,Credit Card,Weekly
+14,23.0,Male,Sneakers,Clothing,91.0,New York,XL,Pink,Summer,,Yes,Standard,Yes,No,20.0,Cash,Fortnightly
+15,41.0,Male,Jeans,Clothing,54.0,Kentucky,,Black,Summer,3.1,Yes,,Yes,Yes,27.0,,Monthly
+16,69.0,Male,Shoes,Accessories,52.0,Rhode Island,M,Turquoise,Summer,4.5,Yes,Standard,Yes,No,43.0,,Every 3 Months
+17,52.0,Male,Shorts,Outerwear,39.0,New York,L,Green,Summer,4.1,Yes,Free Shipping,Yes,No,2.0,Credit Card,
+18,37.0,Male,Shirt,Outerwear,94.0,Florida,M,,Summer,5.0,Yes,2-Day Shipping,Yes,No,41.0,Debit Card,Bi-Weekly
+19,41.0,Male,Jeans,Footwear,23.0,Kentucky,M,Turquoise,,4.9,Yes,2-Day Shipping,Yes,Yes,15.0,Bank Transfer,Annually
+20,22.0,Male,Jeans,Footwear,79.0,Kentucky,S,White,Summer,2.6,Yes,Free Shipping,Yes,No,17.0,PayPal,Every 3 Months
+21,37.0,Male,Jeans,Clothing,,Oregon,,Yellow,Summer,2.5,Yes,Free Shipping,Yes,,,Bank Transfer,Monthly
+22,18.0,Male,Shirt,Outerwear,88.0,Maine,,,Fall,3.9,Yes,2-Day Shipping,Yes,No,34.0,Debit Card,Quarterly
+23,38.0,Male,Sandals,Accessories,,,M,Pink,Winter,2.6,Yes,2-Day Shipping,Yes,No,24.0,PayPal,Fortnightly
+24,50.0,Male,Shorts,Footwear,20.0,Rhode Island,M,Yellow,Summer,4.5,Yes,Next Day Air,Yes,,29.0,,
+25,22.0,Male,Shoes,Accessories,,Rhode Island,L,White,Spring,2.9,Yes,Express,Yes,No,,PayPal,Fortnightly
+26,61.0,Male,Coat,Footwear,31.0,,S,,Spring,2.9,Yes,Store Pickup,Yes,Yes,32.0,Cash,Annually
+27,61.0,Male,Blouse,Accessories,36.0,Massachusetts,,White,,,Yes,Next Day Air,Yes,,32.0,Bank Transfer,
+28,34.0,Male,Sneakers,Outerwear,75.0,Massachusetts,L,Black,Winter,4.4,Yes,Store Pickup,Yes,No,10.0,PayPal,Quarterly
+29,70.0,Male,Sweater,Outerwear,21.0,Florida,XL,Green,Fall,3.2,Yes,2-Day Shipping,Yes,No,5.0,Credit Card,Weekly
+30,19.0,Male,,Accessories,,Maine,XL,Green,Winter,3.5,Yes,Standard,Yes,Yes,34.0,Venmo,Monthly
+31,29.0,Male,Sweater,,36.0,,XL,Green,Fall,4.1,Yes,Free Shipping,Yes,No,30.0,Debit Card,Fortnightly
+32,,Male,Blouse,,54.0,Massachusetts,,,Fall,3.9,Yes,2-Day Shipping,Yes,Yes,27.0,Bank Transfer,Every 3 Months
+33,47.0,Male,,Clothing,41.0,New York,S,Turquoise,Fall,,Yes,Express,Yes,,43.0,Bank Transfer,Quarterly
+34,33.0,Male,Handbag,Clothing,61.0,Florida,L,Maroon,Summer,,Yes,Next Day Air,Yes,,17.0,Debit Card,Fortnightly
+35,,Male,Shorts,Clothing,71.0,Florida,L,Green,Spring,3.0,Yes,Store Pickup,Yes,,16.0,Bank Transfer,Every 3 Months
+36,24.0,Male,Sweater,Clothing,90.0,Texas,XL,Black,,2.6,Yes,Store Pickup,Yes,No,7.0,Debit Card,Bi-Weekly
+37,29.0,Male,Handbag,Outerwear,30.0,Oregon,M,Maroon,Summer,3.7,Yes,2-Day Shipping,Yes,,,PayPal,Bi-Weekly
+38,26.0,Male,Jeans,Clothing,30.0,Rhode Island,L,Turquoise,Fall,2.6,Yes,Store Pickup,Yes,,12.0,PayPal,Fortnightly
+39,20.0,Male,Coat,Footwear,32.0,New York,XL,Turquoise,Summer,4.0,Yes,Store Pickup,Yes,No,46.0,PayPal,Fortnightly
+40,29.0,Male,Sweater,Outerwear,65.0,Kentucky,M,Gray,Winter,3.3,Yes,Next Day Air,Yes,No,,Bank Transfer,Bi-Weekly
+41,67.0,Male,Blouse,Outerwear,,New York,L,Green,Spring,3.7,Yes,Next Day Air,Yes,No,19.0,Debit Card,Weekly
+42,41.0,Male,Shirt,Outerwear,83.0,Maine,L,Gray,Spring,2.5,Yes,Standard,Yes,No,19.0,,Every 3 Months
+43,20.0,Male,Sneakers,Footwear,34.0,Rhode Island,L,Black,Fall,2.8,Yes,2-Day Shipping,Yes,No,,Bank Transfer,Fortnightly
+44,47.0,Male,,Accessories,38.0,Oregon,S,Green,Summer,,Yes,Express,Yes,No,,Credit Card,Fortnightly
+45,,Male,Shoes,Accessories,64.0,Rhode Island,M,Maroon,Spring,3.8,Yes,Free Shipping,Yes,Yes,7.0,,Quarterly
+46,18.0,Male,Shirt,Accessories,60.0,Massachusetts,L,Maroon,Spring,4.7,Yes,Store Pickup,Yes,,22.0,Venmo,Weekly
+47,18.0,Male,Sandals,Footwear,67.0,Maine,M,,Spring,4.1,Yes,2-Day Shipping,Yes,Yes,21.0,Venmo,Weekly
+48,66.0,Male,Sandals,Footwear,61.0,Florida,XL,Yellow,Winter,3.7,Yes,2-Day Shipping,Yes,Yes,38.0,Venmo,Annually
+49,,Male,Sneakers,Accessories,40.0,Maine,S,White,Winter,3.6,Yes,Standard,Yes,Yes,39.0,Credit Card,Every 3 Months
+50,41.0,Male,Shorts,Clothing,71.0,Maine,L,Pink,Summer,3.0,Yes,2-Day Shipping,Yes,No,46.0,Bank Transfer,Every 3 Months
+51,67.0,Male,,Footwear,91.0,,XL,Black,Spring,3.3,Yes,Free Shipping,Yes,No,15.0,Venmo,Bi-Weekly
+52,65.0,Male,Sandals,Accessories,71.0,Florida,L,Yellow,Summer,,Yes,2-Day Shipping,Yes,No,6.0,Venmo,Bi-Weekly
+53,51.0,Male,Sandals,Clothing,28.0,Rhode Island,L,Yellow,Winter,4.4,Yes,Standard,Yes,No,4.0,Bank Transfer,Bi-Weekly
+54,49.0,Male,Handbag,Footwear,51.0,Maine,XL,White,Spring,4.1,Yes,2-Day Shipping,Yes,Yes,22.0,Cash,Every 3 Months
+55,62.0,Male,Shoes,Clothing,59.0,Maine,M,Turquoise,Spring,,Yes,Free Shipping,Yes,Yes,18.0,Debit Card,Annually
+56,67.0,Male,Jeans,Accessories,53.0,Texas,S,White,Spring,4.8,Yes,Free Shipping,Yes,Yes,18.0,PayPal,Monthly
+57,42.0,Male,Handbag,Footwear,52.0,Oregon,L,Black,Spring,3.4,Yes,Express,Yes,,39.0,Cash,Weekly
+58,53.0,Male,Blouse,Outerwear,97.0,Massachusetts,XL,Yellow,Summer,5.0,Yes,2-Day Shipping,Yes,Yes,24.0,Debit Card,Fortnightly
+59,68.0,Male,Blouse,Clothing,26.0,Maine,XL,,Summer,4.6,Yes,,Yes,No,40.0,Bank Transfer,Monthly
+60,62.0,Male,Sandals,Footwear,31.0,Massachusetts,L,Pink,Winter,3.4,Yes,Next Day Air,Yes,No,1.0,Bank Transfer,Monthly
+61,,Male,Jeans,Clothing,51.0,Rhode Island,L,,Summer,2.5,Yes,Standard,Yes,,10.0,Venmo,Weekly
+62,60.0,Male,Blouse,,57.0,Oregon,,Maroon,Fall,4.4,Yes,Store Pickup,Yes,No,31.0,Credit Card,Bi-Weekly
+63,69.0,Male,Sneakers,Accessories,60.0,Massachusetts,S,,Spring,3.6,Yes,Express,Yes,,34.0,Debit Card,Monthly
+64,,Male,Blouse,Accessories,81.0,Massachusetts,M,,Winter,2.5,Yes,2-Day Shipping,Yes,No,26.0,Cash,Quarterly
+65,35.0,Male,Shoes,,,New York,,Black,Winter,5.0,Yes,2-Day Shipping,Yes,No,15.0,Cash,Annually
+66,38.0,Male,Handbag,Clothing,46.0,Maine,XL,Yellow,Summer,3.0,Yes,Store Pickup,Yes,Yes,44.0,Bank Transfer,Quarterly
+67,39.0,Male,,Clothing,89.0,Maine,XL,Black,Summer,4.2,Yes,Next Day Air,Yes,Yes,47.0,,Weekly
+68,63.0,Male,Shirt,Accessories,84.0,Maine,L,Black,,4.7,Yes,2-Day Shipping,Yes,Yes,27.0,Venmo,Annually
+69,22.0,Male,Shorts,Accessories,28.0,Kentucky,,Black,Fall,,Yes,Express,Yes,No,13.0,PayPal,Fortnightly
+70,30.0,Male,Coat,Outerwear,72.0,New York,S,White,Summer,,Yes,Store Pickup,Yes,No,,PayPal,Annually
+71,38.0,Male,Sneakers,Footwear,,Maine,L,Yellow,Winter,2.9,Yes,Store Pickup,Yes,No,13.0,Debit Card,Quarterly
+72,67.0,Male,,Outerwear,44.0,Florida,S,Turquoise,Summer,4.9,Yes,Standard,Yes,No,19.0,Venmo,Quarterly
+73,60.0,Male,Sandals,Outerwear,65.0,Maine,,Maroon,Summer,4.3,Yes,Standard,Yes,No,,Venmo,Weekly
+74,50.0,Male,Blouse,Accessories,91.0,Kentucky,M,Black,Summer,,Yes,2-Day Shipping,Yes,Yes,32.0,,Monthly
+75,20.0,Male,Jeans,,43.0,Rhode Island,M,Pink,Winter,2.5,Yes,2-Day Shipping,Yes,No,,Cash,
+76,68.0,Male,Shoes,Footwear,82.0,Florida,L,Turquoise,Spring,2.8,Yes,2-Day Shipping,Yes,Yes,34.0,Cash,Monthly
+77,48.0,Male,Blouse,Clothing,79.0,Maine,L,Turquoise,Winter,,Yes,,Yes,No,16.0,Venmo,Bi-Weekly
+78,38.0,Male,Shoes,Outerwear,,Rhode Island,M,Black,Summer,4.3,Yes,Free Shipping,Yes,Yes,33.0,Venmo,Monthly
+79,41.0,Male,Blouse,Footwear,58.0,Maine,S,Pink,Summer,,Yes,Free Shipping,Yes,No,12.0,Debit Card,Annually
+80,42.0,Male,Sneakers,Outerwear,61.0,Kentucky,M,Green,Winter,2.6,Yes,Free Shipping,Yes,,39.0,Debit Card,Fortnightly
+81,59.0,Male,Shorts,Footwear,70.0,Florida,M,,Summer,3.1,Yes,2-Day Shipping,Yes,No,46.0,,Monthly
+82,36.0,Male,,Accessories,73.0,Rhode Island,S,Green,Summer,3.6,Yes,Next Day Air,Yes,Yes,1.0,PayPal,Weekly
+83,63.0,Male,Sneakers,Clothing,37.0,New York,M,Black,Fall,3.1,Yes,2-Day Shipping,Yes,No,,Venmo,Quarterly
+84,67.0,Male,Coat,Outerwear,24.0,Maine,M,,Winter,4.7,Yes,Next Day Air,Yes,Yes,9.0,Credit Card,Quarterly
+85,33.0,Male,Sandals,Outerwear,28.0,Rhode Island,L,Yellow,Spring,4.9,Yes,Standard,Yes,No,,PayPal,Monthly
+86,,Male,Handbag,Accessories,75.0,,XL,Pink,Summer,3.1,Yes,Store Pickup,Yes,No,,,Monthly
+87,32.0,Male,Blouse,Accessories,42.0,Rhode Island,S,Yellow,Fall,3.9,Yes,Next Day Air,Yes,Yes,16.0,,Quarterly
+88,36.0,Male,Shoes,Clothing,58.0,Kentucky,XL,Turquoise,Winter,3.5,Yes,Express,Yes,No,32.0,PayPal,Every 3 Months
+89,46.0,Male,,Outerwear,53.0,Oregon,XL,White,Fall,3.0,Yes,2-Day Shipping,Yes,Yes,28.0,Bank Transfer,Monthly
+90,24.0,Male,,Accessories,90.0,Massachusetts,M,Maroon,Fall,5.0,Yes,Next Day Air,Yes,Yes,43.0,,Annually
+91,24.0,Male,Shoes,Clothing,54.0,,,Turquoise,Summer,4.5,Yes,Free Shipping,Yes,Yes,24.0,PayPal,
+92,42.0,Male,Shoes,Accessories,81.0,Florida,L,Gray,Spring,3.8,Yes,,Yes,Yes,26.0,,Weekly
+93,,Male,,Outerwear,37.0,Massachusetts,XL,Black,Fall,2.6,Yes,Standard,Yes,No,38.0,,Weekly
+94,,Male,Sneakers,Outerwear,69.0,Kentucky,M,Pink,Fall,,Yes,2-Day Shipping,Yes,No,27.0,Credit Card,Quarterly
+95,42.0,Male,Blouse,,,Massachusetts,S,Maroon,Fall,4.7,Yes,Next Day Air,Yes,Yes,16.0,PayPal,Monthly
+96,26.0,Male,Handbag,Footwear,89.0,Rhode Island,M,Green,Spring,,Yes,,Yes,No,2.0,Credit Card,Annually
+97,20.0,Male,Shoes,Outerwear,56.0,New York,,White,Winter,4.7,Yes,Free Shipping,Yes,No,4.0,Cash,Monthly
+98,25.0,Male,Sandals,Outerwear,81.0,Massachusetts,M,Pink,Winter,2.7,Yes,Standard,Yes,Yes,44.0,Venmo,Annually
+99,25.0,Male,Blouse,Footwear,51.0,Texas,L,White,Spring,2.6,Yes,Standard,Yes,Yes,47.0,Credit Card,Annually
+100,41.0,Male,Sneakers,Footwear,55.0,Florida,,Maroon,Winter,4.2,Yes,2-Day Shipping,Yes,No,17.0,Cash,Monthly
+101,65.0,Male,Blouse,,85.0,Kentucky,S,Turquoise,Winter,3.2,Yes,Standard,Yes,Yes,44.0,Debit Card,
+102,58.0,Male,Sneakers,,40.0,Kentucky,S,Green,Winter,,Yes,Express,Yes,Yes,45.0,,Every 3 Months
+103,67.0,Male,Sweater,Accessories,94.0,Rhode Island,L,Black,,4.3,Yes,Express,Yes,No,50.0,PayPal,
+104,34.0,Male,Sweater,Clothing,69.0,Oregon,M,Maroon,Spring,2.9,Yes,Store Pickup,Yes,Yes,4.0,,Bi-Weekly
+105,31.0,Male,Shirt,Accessories,43.0,Massachusetts,L,Gray,Fall,4.2,Yes,,Yes,Yes,46.0,Debit Card,Weekly
+106,67.0,Male,Sandals,Footwear,79.0,Oregon,S,Yellow,Winter,4.8,Yes,Express,Yes,No,10.0,PayPal,
+107,67.0,Male,Shirt,Clothing,71.0,Massachusetts,M,Pink,Fall,3.5,Yes,,Yes,Yes,24.0,Debit Card,Annually
+108,23.0,Male,Shoes,Clothing,96.0,,XL,Gray,Spring,3.9,Yes,Store Pickup,Yes,Yes,47.0,Credit Card,Every 3 Months
+109,32.0,Male,,Footwear,,Maine,M,Green,Winter,,Yes,2-Day Shipping,Yes,No,21.0,Venmo,Monthly
+110,27.0,Male,Shorts,Footwear,53.0,Maine,M,Yellow,Winter,4.6,Yes,Free Shipping,Yes,No,11.0,Bank Transfer,Bi-Weekly
+111,44.0,Male,Sneakers,Footwear,64.0,Florida,XL,Gray,Spring,,Yes,Next Day Air,Yes,Yes,7.0,Bank Transfer,Weekly
+112,42.0,Male,Sneakers,Footwear,81.0,Texas,M,Pink,Fall,4.3,Yes,Standard,Yes,Yes,34.0,Venmo,
+113,28.0,Male,Shorts,Accessories,73.0,Massachusetts,S,Green,,,Yes,Standard,Yes,No,30.0,Cash,Every 3 Months
+114,24.0,Male,Jeans,Outerwear,38.0,Florida,XL,White,Winter,4.7,Yes,Next Day Air,Yes,Yes,48.0,Credit Card,Weekly
+115,69.0,Male,,,99.0,Maine,S,Green,Winter,,Yes,Free Shipping,Yes,,5.0,Credit Card,Fortnightly
+116,29.0,Male,Sweater,Accessories,64.0,Oregon,S,Green,Winter,3.3,Yes,2-Day Shipping,Yes,No,,PayPal,Weekly
+117,18.0,Male,Coat,Footwear,81.0,,S,Maroon,Summer,3.7,Yes,Free Shipping,Yes,Yes,14.0,Credit Card,Quarterly
+118,56.0,Male,Shirt,Footwear,31.0,Texas,XL,,Fall,2.9,Yes,2-Day Shipping,Yes,Yes,47.0,,Weekly
+119,68.0,Male,Sneakers,,32.0,Oregon,XL,Yellow,Winter,3.8,Yes,Standard,Yes,No,39.0,Venmo,Every 3 Months
+120,57.0,Male,Shorts,Footwear,99.0,Rhode Island,XL,Pink,Summer,3.4,Yes,Next Day Air,Yes,,37.0,Debit Card,Fortnightly
+121,47.0,Male,Coat,Clothing,60.0,Massachusetts,XL,Yellow,Spring,2.9,Yes,Next Day Air,Yes,Yes,17.0,Cash,Weekly
+122,25.0,Male,,,37.0,New York,L,Yellow,Winter,3.2,Yes,Next Day Air,Yes,Yes,49.0,Cash,Bi-Weekly
+123,45.0,Male,Sneakers,Outerwear,,Kentucky,XL,,Spring,,Yes,Next Day Air,Yes,No,39.0,Bank Transfer,Fortnightly
+124,39.0,Male,Coat,Footwear,,Texas,S,Black,Winter,4.3,Yes,Next Day Air,Yes,Yes,45.0,Venmo,Weekly
+125,34.0,Male,Sneakers,Clothing,28.0,Massachusetts,L,White,,2.8,Yes,Standard,Yes,,10.0,Cash,Weekly
+126,59.0,Male,Jeans,,92.0,Maine,XL,Green,Summer,4.4,Yes,Standard,Yes,No,46.0,,Quarterly
+127,23.0,Male,Sweater,Clothing,76.0,Florida,S,Turquoise,Spring,2.6,Yes,2-Day Shipping,Yes,Yes,43.0,Cash,Quarterly
+128,65.0,Male,Shoes,,93.0,Kentucky,L,Maroon,Winter,2.5,Yes,Store Pickup,Yes,,8.0,PayPal,Quarterly
+129,21.0,Male,Sneakers,,,Kentucky,,,,4.2,Yes,Standard,Yes,Yes,19.0,Venmo,Quarterly
+130,26.0,Male,Coat,Accessories,,Texas,S,Maroon,,,Yes,2-Day Shipping,Yes,Yes,18.0,PayPal,Annually
+131,66.0,Male,Shirt,Footwear,28.0,Kentucky,S,,Winter,3.3,Yes,2-Day Shipping,Yes,Yes,21.0,Debit Card,Quarterly
+132,60.0,Male,Coat,Footwear,35.0,Rhode Island,S,Turquoise,Spring,4.0,Yes,2-Day Shipping,Yes,No,20.0,Debit Card,Quarterly
+133,69.0,Male,Sneakers,Outerwear,40.0,Florida,M,Green,Summer,2.7,Yes,Free Shipping,Yes,No,17.0,Bank Transfer,Bi-Weekly
+134,45.0,Male,Shirt,Footwear,82.0,,M,Gray,Winter,2.8,Yes,Store Pickup,Yes,Yes,22.0,PayPal,Bi-Weekly
+135,26.0,Male,Sandals,Accessories,66.0,Massachusetts,S,Pink,Fall,3.3,Yes,Standard,Yes,,40.0,Venmo,Monthly
+136,,Male,Shoes,Footwear,86.0,Massachusetts,M,White,Spring,4.1,Yes,Express,Yes,No,,PayPal,
+137,46.0,Male,Sandals,Outerwear,78.0,Texas,XL,Maroon,Fall,4.0,Yes,Free Shipping,Yes,No,5.0,Credit Card,Bi-Weekly
+138,23.0,Male,Handbag,Clothing,,Maine,S,Pink,,4.8,Yes,2-Day Shipping,Yes,Yes,,Cash,Every 3 Months
+139,62.0,Male,Shirt,Footwear,94.0,New York,XL,Turquoise,,,Yes,Express,Yes,No,12.0,Venmo,Weekly
+140,27.0,Male,Handbag,Clothing,78.0,,XL,Black,Summer,3.2,Yes,Express,Yes,No,50.0,Venmo,Quarterly
+141,49.0,Male,Shorts,Clothing,37.0,Kentucky,M,Yellow,Fall,3.7,Yes,,Yes,,39.0,Credit Card,Every 3 Months
+142,51.0,Male,Sweater,Outerwear,31.0,Maine,M,Pink,Summer,3.7,Yes,Free Shipping,Yes,No,,Bank Transfer,Bi-Weekly
+143,58.0,Male,Shirt,Footwear,84.0,Oregon,S,Gray,Spring,3.0,Yes,,Yes,,41.0,Credit Card,Monthly
+144,29.0,Male,Shorts,Accessories,20.0,Texas,L,,Spring,,Yes,,Yes,Yes,35.0,Venmo,Fortnightly
+145,21.0,Male,Coat,,58.0,Massachusetts,XL,Turquoise,,2.9,Yes,Store Pickup,Yes,No,31.0,Credit Card,Fortnightly
+146,58.0,Male,Shorts,Clothing,68.0,Maine,L,Gray,Summer,3.1,Yes,2-Day Shipping,Yes,Yes,14.0,Credit Card,Weekly
+147,52.0,Male,Sneakers,,37.0,Florida,,Pink,Spring,2.6,Yes,2-Day Shipping,Yes,Yes,36.0,Cash,Every 3 Months
+148,64.0,Male,Sweater,,90.0,Texas,L,,Summer,3.3,Yes,Next Day Air,Yes,Yes,24.0,Bank Transfer,Monthly
+149,63.0,Male,Blouse,Footwear,96.0,Texas,XL,Green,Winter,,Yes,,Yes,No,8.0,Cash,Quarterly
+150,23.0,Male,Sneakers,Clothing,53.0,New York,L,Maroon,Spring,2.5,Yes,Store Pickup,Yes,No,22.0,Credit Card,Fortnightly
+151,67.0,Male,Sweater,Accessories,37.0,Kentucky,M,Turquoise,Summer,3.1,Yes,Next Day Air,Yes,Yes,19.0,Bank Transfer,Monthly
+152,59.0,Male,Sandals,Accessories,26.0,,L,Black,Summer,4.8,Yes,Store Pickup,Yes,Yes,49.0,PayPal,Monthly
+153,60.0,Male,Sneakers,Outerwear,,Oregon,S,Gray,Fall,,Yes,Free Shipping,Yes,Yes,17.0,Debit Card,Annually
+154,24.0,Male,Shirt,Accessories,85.0,New York,M,Black,Summer,3.7,Yes,Next Day Air,Yes,No,16.0,Debit Card,Every 3 Months
+155,43.0,Male,Handbag,Accessories,92.0,Florida,S,Pink,Spring,3.1,Yes,Store Pickup,Yes,Yes,29.0,Credit Card,Fortnightly
+156,67.0,Male,,Accessories,48.0,Rhode Island,S,Yellow,Summer,3.2,Yes,2-Day Shipping,Yes,Yes,34.0,,Quarterly
+157,55.0,Male,Blouse,Footwear,45.0,Texas,S,Black,Fall,4.5,Yes,Next Day Air,Yes,No,31.0,PayPal,Bi-Weekly
+158,65.0,Male,Jeans,Footwear,32.0,Massachusetts,,White,Spring,4.8,Yes,Next Day Air,Yes,No,47.0,Bank Transfer,Annually
+159,,Male,Shorts,Accessories,21.0,Rhode Island,XL,Maroon,Spring,4.1,Yes,Standard,Yes,,33.0,,Fortnightly
+160,26.0,Male,Coat,Clothing,84.0,Rhode Island,,Gray,Summer,2.6,Yes,Next Day Air,Yes,Yes,48.0,,Quarterly
+161,22.0,Male,,Accessories,79.0,Maine,M,,Winter,3.6,Yes,Free Shipping,Yes,,41.0,PayPal,Fortnightly
+162,29.0,Male,Sweater,Footwear,20.0,Kentucky,XL,Green,Winter,4.6,Yes,Next Day Air,Yes,No,25.0,PayPal,Quarterly
+163,37.0,Male,Blouse,Accessories,39.0,Maine,M,White,Spring,3.0,Yes,Store Pickup,Yes,No,,Cash,Weekly
+164,26.0,Male,,Footwear,29.0,Kentucky,XL,White,Spring,5.0,Yes,Express,Yes,No,22.0,,
+165,60.0,Male,,Accessories,57.0,Maine,S,Gray,Winter,4.1,Yes,Store Pickup,Yes,,14.0,PayPal,Weekly
+166,25.0,Male,Coat,Clothing,63.0,Maine,L,Gray,Winter,2.5,Yes,Free Shipping,Yes,Yes,36.0,Venmo,Weekly
+167,62.0,Male,Coat,Accessories,,Oregon,,Turquoise,,3.9,Yes,Express,Yes,No,30.0,Cash,Bi-Weekly
+168,66.0,Male,Shirt,Accessories,,,L,Black,Spring,4.6,Yes,Free Shipping,Yes,Yes,,PayPal,Monthly
+169,38.0,Male,Sneakers,Footwear,39.0,Rhode Island,,Turquoise,Fall,,Yes,Express,Yes,No,13.0,Venmo,
+170,37.0,Male,Handbag,Accessories,61.0,Oregon,XL,Turquoise,Spring,3.9,Yes,Store Pickup,Yes,Yes,10.0,Bank Transfer,Annually
+171,52.0,Male,Jeans,Accessories,95.0,Massachusetts,S,Turquoise,Spring,3.0,Yes,2-Day Shipping,Yes,No,40.0,Cash,Fortnightly
+172,24.0,Male,Shorts,Outerwear,,Kentucky,XL,Black,,4.5,Yes,2-Day Shipping,Yes,No,31.0,PayPal,Every 3 Months
+173,67.0,Male,Sandals,Outerwear,96.0,Texas,,Turquoise,Summer,3.5,Yes,,Yes,,9.0,PayPal,
+174,24.0,Male,Sweater,Footwear,72.0,New York,XL,Turquoise,Winter,3.8,Yes,Express,Yes,No,37.0,Debit Card,Bi-Weekly
+175,69.0,Male,Shirt,Clothing,24.0,Oregon,XL,Turquoise,Summer,3.2,Yes,Next Day Air,Yes,Yes,14.0,,Weekly
+176,44.0,Male,Coat,Accessories,27.0,Maine,M,Gray,Spring,4.0,Yes,Standard,Yes,No,26.0,PayPal,Fortnightly
+177,49.0,Male,Shoes,Clothing,,Maine,XL,White,Fall,2.7,Yes,Standard,Yes,Yes,16.0,Cash,Quarterly
+178,32.0,Male,Sneakers,Footwear,23.0,Oregon,XL,Gray,Winter,4.9,Yes,Express,Yes,Yes,36.0,PayPal,Annually
+179,52.0,Male,Shirt,Clothing,44.0,New York,M,Maroon,Spring,2.8,Yes,Store Pickup,Yes,Yes,21.0,Credit Card,Annually
+180,45.0,Male,Shorts,Accessories,65.0,,XL,Yellow,Spring,2.5,Yes,Express,Yes,,12.0,Venmo,Monthly
+181,57.0,Male,Sandals,Accessories,32.0,New York,S,White,Fall,,Yes,Free Shipping,Yes,No,40.0,Venmo,
+182,59.0,Male,Sweater,Footwear,44.0,Texas,S,Green,Spring,4.3,Yes,Store Pickup,Yes,,38.0,,Monthly
+183,69.0,Male,,Outerwear,91.0,Oregon,XL,,Spring,3.7,Yes,Standard,Yes,,50.0,Credit Card,Bi-Weekly
+184,,Male,,Footwear,88.0,New York,M,Maroon,Summer,2.9,Yes,Next Day Air,Yes,Yes,20.0,PayPal,Weekly
+185,36.0,Male,Shorts,Footwear,68.0,Rhode Island,XL,Turquoise,Summer,4.4,Yes,Standard,Yes,,37.0,Credit Card,Fortnightly
+186,36.0,Male,Sandals,Accessories,34.0,Florida,L,Turquoise,Fall,3.2,Yes,2-Day Shipping,Yes,Yes,,Debit Card,Fortnightly
+187,,Male,Sandals,,27.0,Rhode Island,,Maroon,,4.3,Yes,2-Day Shipping,Yes,No,30.0,Debit Card,Monthly
+188,58.0,Male,Shorts,Clothing,87.0,New York,M,Turquoise,Winter,,Yes,Standard,Yes,Yes,18.0,Debit Card,Fortnightly
+189,,Male,Sneakers,Footwear,72.0,Florida,XL,Yellow,Fall,3.1,Yes,Express,Yes,No,46.0,,Quarterly
+190,28.0,Male,Shirt,Outerwear,59.0,Kentucky,L,Pink,,2.9,Yes,Store Pickup,Yes,No,20.0,Venmo,Monthly
+191,64.0,Male,Sneakers,Accessories,45.0,Massachusetts,S,Black,Winter,3.7,Yes,Standard,Yes,Yes,37.0,Venmo,Annually
+192,68.0,Male,Shorts,Outerwear,,Maine,XL,Gray,Summer,,Yes,Free Shipping,Yes,No,,Cash,Monthly
+193,44.0,Male,Shorts,Accessories,79.0,,M,Maroon,Winter,2.5,Yes,Express,Yes,Yes,4.0,Credit Card,Annually
+194,58.0,Male,,Footwear,59.0,New York,S,,Winter,4.1,Yes,Express,Yes,No,24.0,,Fortnightly
+195,56.0,Male,Sneakers,Outerwear,,Texas,L,Gray,Spring,3.4,Yes,Standard,Yes,,19.0,PayPal,Monthly
+196,58.0,Male,Coat,,66.0,New York,S,White,Fall,4.5,Yes,,Yes,Yes,37.0,PayPal,Weekly
+197,39.0,Male,Shoes,Accessories,94.0,Oregon,L,Yellow,Fall,4.4,Yes,Store Pickup,Yes,No,26.0,Credit Card,Quarterly
+198,66.0,Male,,Accessories,,Florida,M,Green,Spring,2.9,Yes,Express,Yes,No,12.0,,Fortnightly
+199,50.0,Male,Sweater,Accessories,92.0,,L,Pink,Summer,,Yes,2-Day Shipping,Yes,No,22.0,Credit Card,Fortnightly
+200,56.0,Male,Handbag,Accessories,20.0,New York,XL,White,Winter,4.0,Yes,Store Pickup,Yes,,33.0,Venmo,Bi-Weekly
+201,55.0,Male,Sweater,Footwear,68.0,Florida,XL,Maroon,Fall,3.5,Yes,Express,Yes,No,27.0,Bank Transfer,Fortnightly
+202,65.0,Male,Sneakers,Clothing,,,L,Pink,Winter,3.8,Yes,Express,Yes,Yes,40.0,PayPal,
+203,24.0,Male,,Footwear,71.0,Oregon,M,Turquoise,Spring,2.8,Yes,,Yes,No,32.0,PayPal,Every 3 Months
+204,67.0,Male,Shirt,Clothing,56.0,New York,S,Black,Fall,4.7,Yes,Free Shipping,Yes,Yes,9.0,Venmo,Fortnightly
+205,34.0,Male,,,99.0,Kentucky,XL,White,Summer,3.7,Yes,Next Day Air,Yes,No,46.0,PayPal,Weekly
+206,47.0,Male,Sneakers,Accessories,62.0,Kentucky,XL,Pink,Spring,3.8,Yes,Next Day Air,Yes,Yes,20.0,Cash,
+207,,Male,Sneakers,Footwear,31.0,Oregon,XL,Black,Spring,3.5,Yes,Express,Yes,Yes,3.0,Credit Card,Quarterly
+208,43.0,Male,,Clothing,82.0,,M,Gray,,4.3,Yes,Free Shipping,Yes,No,44.0,Venmo,
+209,70.0,Male,Blouse,Accessories,84.0,Maine,XL,Black,Summer,4.7,Yes,2-Day Shipping,Yes,Yes,25.0,PayPal,Fortnightly
+210,21.0,Male,Sweater,Accessories,90.0,Kentucky,L,,Winter,5.0,Yes,Store Pickup,Yes,Yes,23.0,PayPal,
+211,39.0,Male,Sneakers,Footwear,41.0,Florida,XL,Yellow,Fall,5.0,Yes,Free Shipping,Yes,No,46.0,Debit Card,Weekly
+212,69.0,Male,Sweater,Clothing,37.0,Maine,S,Black,Spring,3.4,Yes,Express,Yes,No,12.0,Debit Card,Fortnightly
+213,30.0,Male,Shirt,Outerwear,36.0,Rhode Island,XL,Turquoise,,5.0,Yes,,Yes,No,40.0,Bank Transfer,Quarterly
+214,30.0,Male,Sandals,Outerwear,85.0,,M,Pink,Winter,3.8,Yes,Express,Yes,Yes,24.0,Credit Card,Weekly
+215,49.0,Male,Shoes,Accessories,51.0,Massachusetts,L,Gray,Summer,3.5,Yes,Express,Yes,Yes,,PayPal,
+216,70.0,Male,Sneakers,Outerwear,52.0,New York,M,White,Summer,,Yes,Store Pickup,Yes,No,13.0,Venmo,Annually
+217,,Male,Shorts,Outerwear,90.0,Texas,XL,Turquoise,Spring,3.9,Yes,Next Day Air,Yes,No,20.0,Cash,Weekly
+218,,Male,Sweater,Accessories,59.0,Oregon,XL,White,Summer,2.9,Yes,Store Pickup,Yes,No,14.0,Bank Transfer,Weekly
+219,43.0,Male,Shoes,Accessories,78.0,Kentucky,,,Summer,4.2,Yes,,Yes,No,27.0,Cash,Annually
+220,,Male,Shorts,Accessories,94.0,Massachusetts,XL,Turquoise,Spring,2.5,Yes,Free Shipping,Yes,Yes,15.0,Cash,Quarterly
+221,20.0,Male,Jeans,Clothing,73.0,New York,XL,Gray,,4.7,Yes,Free Shipping,Yes,Yes,2.0,Venmo,Monthly
+222,48.0,Male,Shoes,Footwear,89.0,,L,,Fall,2.8,Yes,Free Shipping,Yes,No,19.0,Venmo,
+223,52.0,Male,Handbag,Outerwear,76.0,Texas,,Gray,Winter,3.2,Yes,,Yes,Yes,5.0,Debit Card,Bi-Weekly
+224,,Male,Sneakers,Outerwear,77.0,Massachusetts,,Gray,Spring,3.0,Yes,Express,Yes,No,16.0,Bank Transfer,Fortnightly
+225,42.0,Male,Coat,Clothing,,Florida,XL,Maroon,Winter,3.2,Yes,2-Day Shipping,Yes,Yes,21.0,Cash,Weekly
+226,24.0,Male,Sneakers,Outerwear,79.0,Rhode Island,M,Black,,2.7,Yes,Next Day Air,Yes,Yes,,Debit Card,Bi-Weekly
+227,,Male,Jeans,Outerwear,84.0,Kentucky,S,Pink,Spring,3.7,Yes,Free Shipping,Yes,,31.0,Credit Card,Bi-Weekly
+228,35.0,Male,Sweater,Clothing,29.0,Oregon,M,Black,Summer,3.9,Yes,Store Pickup,Yes,Yes,30.0,Debit Card,Every 3 Months
+229,63.0,Male,Blouse,Footwear,63.0,Rhode Island,M,Pink,Winter,3.2,Yes,Express,Yes,No,1.0,Cash,Weekly
+230,54.0,Male,Shorts,Clothing,26.0,Maine,M,Green,Winter,3.2,Yes,Store Pickup,Yes,No,,Venmo,Annually
+231,41.0,Male,Jeans,,,Maine,S,Pink,Spring,4.1,Yes,Store Pickup,Yes,Yes,14.0,Venmo,
+232,43.0,Male,Sandals,Accessories,37.0,New York,S,Gray,Summer,4.2,Yes,Standard,Yes,No,24.0,PayPal,Every 3 Months
+233,63.0,Male,Sandals,Accessories,41.0,Oregon,S,Gray,Spring,4.0,Yes,Standard,Yes,Yes,42.0,Cash,Annually
+234,23.0,Male,,Accessories,,Texas,XL,Maroon,Fall,4.1,Yes,,Yes,Yes,30.0,Venmo,Quarterly
+235,20.0,Male,Sandals,Accessories,38.0,Texas,S,Gray,Winter,3.3,Yes,,Yes,No,13.0,Venmo,Bi-Weekly
+236,,Male,Shorts,Footwear,100.0,Texas,,White,,2.5,Yes,Express,Yes,Yes,4.0,Credit Card,Bi-Weekly
+237,30.0,Male,Shoes,Accessories,,Florida,S,Turquoise,Winter,4.6,Yes,,Yes,Yes,7.0,Credit Card,
+238,46.0,Male,Sneakers,Outerwear,,Florida,S,Black,Winter,3.0,Yes,Free Shipping,Yes,Yes,6.0,Venmo,Fortnightly
+239,36.0,Male,Jeans,Clothing,30.0,Maine,S,Pink,Fall,3.7,Yes,Express,Yes,No,2.0,Cash,Fortnightly
+240,44.0,Male,Shorts,Clothing,27.0,Texas,S,Green,Summer,2.7,Yes,,Yes,No,16.0,Bank Transfer,Bi-Weekly
+241,64.0,Male,Shirt,Footwear,33.0,Florida,S,Gray,Winter,2.5,Yes,Free Shipping,Yes,No,3.0,Debit Card,Annually
+242,27.0,Male,Sandals,Outerwear,34.0,,XL,Pink,Winter,,Yes,Next Day Air,Yes,,32.0,Credit Card,Bi-Weekly
+243,,Male,Sandals,Outerwear,52.0,Florida,L,Gray,Fall,5.0,Yes,2-Day Shipping,Yes,No,43.0,,
+244,61.0,Male,Shirt,Outerwear,20.0,Maine,XL,Maroon,,4.0,Yes,Express,Yes,,18.0,Cash,Bi-Weekly
+245,62.0,Male,Sweater,Outerwear,,Oregon,L,Gray,,3.1,Yes,Store Pickup,Yes,No,24.0,Venmo,Every 3 Months
+246,68.0,Male,Shorts,Clothing,32.0,Rhode Island,M,Pink,Fall,3.4,Yes,Next Day Air,Yes,Yes,21.0,Venmo,Every 3 Months
+247,43.0,Male,Shorts,Accessories,92.0,Florida,,Pink,Winter,2.5,Yes,Next Day Air,Yes,No,23.0,Bank Transfer,Every 3 Months
+248,47.0,Male,Sneakers,Footwear,57.0,Texas,XL,Turquoise,Winter,2.8,Yes,Standard,Yes,No,19.0,,Monthly
+249,36.0,Male,Coat,Outerwear,71.0,Rhode Island,XL,Gray,Fall,3.9,Yes,Next Day Air,Yes,Yes,47.0,Venmo,Monthly
+250,60.0,Male,,,96.0,,XL,Pink,Winter,3.8,Yes,2-Day Shipping,Yes,No,42.0,Cash,Quarterly
+251,55.0,Male,Sandals,Accessories,,New York,L,Gray,Fall,4.5,Yes,,Yes,Yes,,Bank Transfer,Fortnightly
+252,41.0,Male,Sweater,,23.0,,M,Green,Fall,3.5,Yes,2-Day Shipping,Yes,Yes,35.0,Credit Card,Fortnightly
+253,34.0,Male,Shoes,Accessories,78.0,Oregon,L,Green,Summer,3.6,Yes,Store Pickup,Yes,Yes,,Debit Card,Quarterly
+254,52.0,Male,Sandals,Outerwear,63.0,,S,Green,Fall,4.9,Yes,Next Day Air,Yes,No,46.0,Cash,Bi-Weekly
+255,22.0,Male,Sneakers,,73.0,Rhode Island,S,,Summer,4.2,Yes,Next Day Air,Yes,Yes,46.0,PayPal,Quarterly
+256,64.0,Male,Handbag,Clothing,61.0,Maine,S,Yellow,Winter,4.0,Yes,Next Day Air,Yes,No,41.0,Bank Transfer,Every 3 Months
+257,20.0,Male,Jeans,Outerwear,20.0,Kentucky,M,Turquoise,Winter,2.6,Yes,Free Shipping,Yes,No,25.0,Cash,Bi-Weekly
+258,26.0,Male,Shoes,Footwear,81.0,Maine,M,Maroon,Summer,4.1,Yes,Next Day Air,Yes,No,36.0,Bank Transfer,Bi-Weekly
+259,27.0,Male,Jeans,Clothing,,Massachusetts,XL,Maroon,Winter,3.8,Yes,Store Pickup,Yes,No,36.0,PayPal,Quarterly
+260,,Male,Jeans,Footwear,94.0,Maine,M,Pink,Winter,,Yes,Express,Yes,Yes,,Venmo,Quarterly
+261,47.0,Male,Shirt,Footwear,31.0,Kentucky,XL,Maroon,Summer,2.9,Yes,Free Shipping,Yes,Yes,30.0,Credit Card,Quarterly
+262,,Male,Shoes,Footwear,100.0,Florida,XL,Yellow,Spring,,Yes,,Yes,Yes,49.0,Debit Card,Quarterly
+263,,Male,Shorts,Footwear,,Rhode Island,M,Maroon,Spring,4.7,Yes,Standard,Yes,No,9.0,Venmo,Monthly
+264,70.0,Male,Sandals,Outerwear,95.0,New York,L,,,4.1,Yes,Standard,Yes,No,10.0,Cash,
+265,68.0,Male,Sweater,Accessories,62.0,Maine,L,Black,Spring,3.7,Yes,Standard,Yes,No,46.0,Bank Transfer,Weekly
+266,,Male,Sweater,Footwear,52.0,Massachusetts,M,Turquoise,,3.8,Yes,Free Shipping,Yes,No,32.0,Debit Card,Monthly
+267,57.0,Male,Jeans,,,New York,XL,Gray,Fall,3.2,Yes,2-Day Shipping,Yes,No,36.0,Bank Transfer,Annually
+268,24.0,Male,Coat,Clothing,98.0,Oregon,,,Winter,4.7,Yes,Store Pickup,Yes,Yes,38.0,PayPal,Every 3 Months
+269,36.0,Male,Blouse,Clothing,56.0,New York,M,Gray,Winter,3.9,Yes,Express,Yes,No,16.0,Debit Card,Weekly
+270,30.0,Male,Sandals,Accessories,55.0,Kentucky,M,Pink,Fall,3.5,Yes,Next Day Air,Yes,No,38.0,Cash,Bi-Weekly
+271,57.0,Male,Jeans,,94.0,Maine,L,Yellow,Winter,4.2,Yes,Next Day Air,Yes,Yes,,Venmo,Monthly
+272,,Male,Handbag,Footwear,53.0,Florida,S,Green,Summer,3.2,Yes,Standard,Yes,No,6.0,Credit Card,Every 3 Months
+273,,Male,,Accessories,85.0,Rhode Island,L,Yellow,Spring,5.0,Yes,Free Shipping,Yes,No,8.0,Venmo,Annually
+274,69.0,Male,Sweater,Clothing,,Texas,XL,Gray,Spring,4.1,Yes,Free Shipping,Yes,No,2.0,Cash,Quarterly
+275,47.0,Male,Sandals,Accessories,55.0,Texas,,Pink,Fall,3.5,Yes,Next Day Air,Yes,Yes,17.0,Credit Card,
+276,68.0,Male,Handbag,Outerwear,54.0,Oregon,,Gray,Winter,2.7,Yes,Standard,Yes,Yes,2.0,Credit Card,Every 3 Months
+277,47.0,Male,Sweater,Accessories,66.0,Massachusetts,,Green,Winter,3.5,Yes,Express,Yes,,30.0,Cash,Quarterly
+278,66.0,Male,Handbag,Outerwear,42.0,Massachusetts,M,Yellow,Winter,4.8,Yes,Standard,Yes,No,33.0,Debit Card,Quarterly
+279,56.0,Male,Jeans,Accessories,73.0,Rhode Island,L,Green,Fall,3.1,Yes,Free Shipping,Yes,Yes,22.0,PayPal,Quarterly
+280,69.0,Male,Sneakers,Clothing,85.0,,XL,,Fall,4.4,Yes,Express,Yes,Yes,29.0,Venmo,Quarterly
+281,41.0,Male,Sandals,Footwear,50.0,Kentucky,,Green,Winter,4.5,Yes,Express,Yes,No,45.0,Credit Card,Fortnightly
+282,32.0,Male,Blouse,Outerwear,34.0,Texas,M,Pink,Spring,,Yes,Express,Yes,No,,Debit Card,Annually
+283,67.0,Male,Shorts,,69.0,Florida,L,Green,Spring,3.0,Yes,2-Day Shipping,Yes,,,Bank Transfer,Bi-Weekly
+284,,Male,Shirt,,36.0,Florida,,Yellow,Spring,2.5,Yes,Standard,Yes,No,5.0,Venmo,Annually
+285,46.0,Male,Blouse,,68.0,Oregon,XL,White,Spring,2.9,Yes,Next Day Air,Yes,,39.0,PayPal,Weekly
+286,,Male,Blouse,Outerwear,,Massachusetts,L,Green,Winter,3.8,Yes,Express,Yes,Yes,43.0,Venmo,Monthly
+287,56.0,Male,Shirt,Clothing,26.0,Florida,,,Spring,3.3,Yes,Next Day Air,Yes,Yes,6.0,Credit Card,Weekly
+288,31.0,Male,Blouse,Footwear,53.0,Florida,XL,Green,Winter,3.8,Yes,Free Shipping,Yes,Yes,19.0,Credit Card,Annually
+289,,Male,Shorts,Outerwear,55.0,Kentucky,M,Gray,Fall,4.1,Yes,Store Pickup,Yes,Yes,42.0,Credit Card,Every 3 Months
+290,33.0,Male,Shirt,Accessories,93.0,Maine,S,White,Spring,4.6,Yes,,Yes,No,,Cash,Annually
+291,25.0,Male,Blouse,Accessories,83.0,Kentucky,L,Green,Fall,4.3,Yes,Express,Yes,No,12.0,Bank Transfer,Quarterly
+292,22.0,Male,Sandals,Footwear,37.0,Florida,M,Gray,Fall,4.4,Yes,Free Shipping,Yes,No,,Debit Card,Weekly
+293,66.0,Male,,Clothing,35.0,Kentucky,L,Black,Winter,,Yes,,Yes,No,,Credit Card,Monthly
+294,62.0,Male,Shoes,Clothing,62.0,New York,,Maroon,Summer,3.7,Yes,2-Day Shipping,Yes,,,Venmo,Monthly
+295,65.0,Male,Coat,Accessories,47.0,Rhode Island,S,Green,Summer,4.6,Yes,Standard,Yes,No,23.0,PayPal,
+296,54.0,Male,Sweater,Accessories,54.0,Maine,,Black,Winter,2.7,Yes,2-Day Shipping,Yes,No,33.0,,Weekly
+297,40.0,Male,Shorts,Accessories,91.0,Massachusetts,M,Turquoise,,3.9,Yes,Express,Yes,Yes,,Debit Card,Every 3 Months
+298,25.0,Male,Handbag,Footwear,,Oregon,M,Black,Spring,2.9,Yes,,Yes,Yes,,PayPal,Monthly
+299,49.0,Male,Jeans,Accessories,67.0,Massachusetts,M,Gray,Fall,3.1,Yes,Store Pickup,Yes,Yes,29.0,PayPal,Fortnightly
+300,62.0,Male,Sneakers,Outerwear,51.0,New York,XL,Maroon,Spring,5.0,Yes,Standard,Yes,,34.0,Cash,Quarterly
